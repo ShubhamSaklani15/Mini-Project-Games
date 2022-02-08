@@ -1,0 +1,57 @@
+body
+{
+	padding-top:2%;
+	background-color:black;
+}
+img
+{
+	height:200px;
+	width:200px;
+	padding:3%;
+}
+button
+{
+	width:200px;
+	height:30px;
+	font-size:20px;
+	font-weight:bold;
+	background-color:yellow;
+	color:red;
+	border:1px solid green;
+	border-radius:20%;
+}
+button:hover
+{
+	background-color:red;
+	color:yellow;
+}
+p
+{
+	font-size:33px;
+	color:#7FFFD4;
+}
+.heading
+{
+	color:yellow;
+	font-size:80px;
+}
+.images
+{
+	margin-left:22%;
+	float:left;
+}
+.draw
+{
+	color:red;
+	font-size:80px;
+}
+.player1
+{
+	color:#00FFFF;
+	font-size:80px;
+}
+.player2
+{
+	color:#7CFC00;
+	font-size:80px;
+}
